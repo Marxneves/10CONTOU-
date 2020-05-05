@@ -1,5 +1,5 @@
 # 10CONTOU-
-Projeto em desenvolvimento realizado para evento MegaHack.
+<h2>Projeto em desenvolvimento realizado para evento MegaHack.</h2>
 
 Nos arquivos tem os exemplos de como ficaria a pagina web do projeto e abaixo tem alguns links explicando sobre o projeto.
 

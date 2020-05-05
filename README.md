@@ -13,4 +13,4 @@ Video exemplo do funcionamento do aplicativo mobile https://youtu.be/i_UusTxmFJs
 <hr>
 
 <h3>Autores</h3>
-<p>Marx Khristie | Adriano | Célio | Enzo | Marcos </p>
+<p>Marx Khristie | Adriano da Silva Jorge | Célio Roberto Vicente Junior | Enzo Kleyton | Marcos William Almeida </p>

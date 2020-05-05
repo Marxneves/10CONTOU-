@@ -9,8 +9,7 @@ Exemplo aplicativo mobile: https://www.figma.com/proto/yZM4R1Ti527Tk7tcPVX1fE/10
 
 Video exemplo do funcionamento do aplicativo mobile https://youtu.be/i_UusTxmFJs
 
-
 <hr>
 
-<h3>Autores</h3>
+<h2>Autores</h2>
 <p>Marx Khristie | Adriano da Silva Jorge | Célio Roberto Vicente Junior | Enzo Kleyton | Marcos William Almeida </p>
